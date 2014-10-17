@@ -1,0 +1,23 @@
+#bigone{
+  font-family: cursive, wellthenscrewyou;
+  background-color: blue
+}
+::selection{
+  background-color: lime;
+  font-family: verdana;
+  font-color: blue;
+}
+div{
+  border: solid lime;
+  border-radius: 45px;
+}
+#gloriousleader{
+  font-family: impact, cursive;
+}
+{
+  font-size: 1000000000px;
+  font-color: #F69658;
+}
+img {
+  height: 99999999;
+}
